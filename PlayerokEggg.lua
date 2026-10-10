@@ -1,19 +1,3 @@
-```lua
---[[
-    KerryHub - Premium Interface & Advanced AutoFarm
-    Integrated with StealAutoFarm Full Engine:
-    - High-Speed Corridor Flight (Z=-360) & Warp Snipe
-    - Desync Godmode & Anti-Ragdoll Bypasses
-    - Guard Strike Bounce & Re-grab Handling
-    - Multi-Zone & Multi-Rarity Targeting Filters (Secret+ Priority)
-    - Auto Place (Every 5 Steals) & Auto Hatch Engine
-    - Auto Treadmill Mount & Tier Upgrade Engine
-    - Auto Speed Trail Purchase & Equip Engine
-    - Ultra Potato Mode & 3D Rendering Disabler
-    - Anti-AFK & Hide "Not Enough Money" UI Alerts
-    - FOREST DROP: Deliver stolen egg to Forest and stop script
-]]--
-
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
